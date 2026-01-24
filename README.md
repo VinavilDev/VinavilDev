@@ -7,7 +7,6 @@
 7+ years building modern web apps · Finding vulns in the wild
 
 [![Website](https://img.shields.io/badge/vinavildev.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vinavildev.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinavilDev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/vinavildev)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vinavildev)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/TheRealVinavil/)
